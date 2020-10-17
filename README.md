@@ -35,7 +35,7 @@ I like cats
 and dogs
 
 
-![image is here](gh.png)
+![image is here](img/gh.png)
 
 ![bird](https://www.infox.ru/photo/943/103/9431036a7a52e8ab33ae7741efeadaf2asdasdasd5cebb6166ff9a8.41288027-650x433-9431036a7a52e8ab33ae7741efeadaf2.jpg)
 
@@ -47,3 +47,5 @@ column1 | column2 | column 3
 :--- | ---: | :---: |
 text 1| text 2 | text 3
 text 4 | text 5 | text 6
+
+my norebook is [here](загруженный в репозиторий файл.ipynb)
