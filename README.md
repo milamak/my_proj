@@ -48,4 +48,4 @@ column1 | column2 | column 3
 text 1| text 2 | text 3
 text 4 | text 5 | text 6
 
-my norebook is [here](загруженный в репозиторий файл.ipynb)
+my norebook is [here](06_Social_network_analysis.ipynb)
